@@ -3,14 +3,10 @@ let teks = 'gckoko'
 let handler = async (m, { conn }) => conn.send2ButtonImg(m.chat, await (await fetch('https://telegra.ph/file/480d83b0ef52cd62d5c71.jpg' + teks)).buffer(), `
 *𝐇𝐚𝐥𝐨 𝐁𝐚𝐧𝐡 𝐉𝐚𝐧𝐠𝐚𝐧 𝐋𝐮𝐩𝐚 𝐉𝐨𝐢𝐧 && 𝐁𝐚𝐜𝐚 𝐑𝐮𝐥𝐞𝐬❗*
 ╔═══════════════════
-║ _*Group All*_ ᵈʳˢYᴜɴɪ-ᴍᴅ×፝֟͜×
+║ _*Group All*_ RyannBOTZ
 ╠═══════════════════
-║➸ _Group Yuni & Alpuy:_
-║ https://chat.whatsapp.com/L4FEDmo5VS870hYYm22t7R
-║➸ _𝐆𝐫𝐨𝐮𝐩 𝐁𝐨𝐭 1:_
-║ https://chat.whatsapp.com/IqFfoXcdh7UFyPoQTpKoQp
-║➸ _𝐆𝐫𝐨𝐮𝐩 𝐁𝐨𝐭 2:_
-║ https://chat.whatsapp.com/LhpFRMqsKkn6nrCCf1He9R
+║➸ _Group Yann-MD:_
+║ https://chat.whatsapp.com/KHorlMi7ZwRHOZNlvxBC2M
 ╚════════════════════
 ╔════════════════════
 ║ *RULES GROUP BOT*
@@ -24,8 +20,8 @@ let handler = async (m, { conn }) => conn.send2ButtonImg(m.chat, await (await fe
 ║𝐃𝐢𝐥𝐚𝐫𝐚𝐧𝐠 𝐇𝐢𝐧𝐚 𝐁𝐨𝐭
 ║𝐌𝐚𝐮 𝐒𝐞𝐰𝐚? 𝐊𝐞𝐭𝐢𝐤 .owner
 ╚════════════════════
-`.trim(), wm, '😳KOKO', '.owner', 'MENU✔️', '.menu')
-handler.help = ['gckoko']
+`.trim(), wm, 'Yann-MD', '.owner', 'MENU✔️', '.menu')
+handler.help = ['gcryann']
 handler.tags = ['info']
 handler.command = /^gc(koko|groupkoko)$/i
 
