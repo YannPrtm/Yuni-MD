@@ -633,14 +633,14 @@ global.dfail = (type, m, conn) => {
           4. Bot harus admin jika ingin menggunakan fitur admin! 
           5. enable restrict untuk mengaktifkan fitur admin
           
-          RULES PENGGUNA Yuni-MD
+          RULES PENGGUNA YlYann-BOT
           1. Dilarang spam & telpon bot
           2. Dilarang share nomor bot
           3. Dilarang menggunakan bot untuk hal yang tidak berguna
           4. Dilarang untuk membandingkan Undefined bot dengan yang lain
           5. Lapor bug ke Owner dan Police jika ditemukan
           
-          RULES ADMIN & GROUP Yuni-MD
+          RULES ADMIN & GROUP Ryann BOT
           1. Gunakan end group dengan otak di kepala jangan otak di dengkul
           2. Jangan spam invite dan kick menggunakan fitur bot
           3. Jika ada yang spam, bantu group close (untuk menghindari Overload) 
@@ -648,7 +648,7 @@ global.dfail = (type, m, conn) => {
           
           Owner & Police bot berhak banned permanen / sementara dan leave group jika ada yang melanggar! 
           Hormat kami Staff Yuni-MD
-          `, 'Yuni-MD | ©ᵈʳкσкσ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×', 'Terima', '.terima', 'Tidak', '.tidak', m)
+          `, 'Yann-Botz| © Ryann Aditya', 'Terima', '.terima', 'Tidak', '.tidak', m)
   	
 }
 

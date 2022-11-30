@@ -1,21 +1,21 @@
-global.you = ['6283863727744'] 
+global.you = ['6282252285143'] 
 //Developer Bot
 global.gc = 'https://chat.whatsapp.com/IqFfoXcdh7UFyPoQTpKoQp'
-global.rowner = ['6283863727744'] // Real Owner Bot
-global.owner = ['6283863727744'] // Owner Bot
-global.police = ['6283863727744'] // Police Bot
-global.mods = ['6283863727744']  // Want some help?
-global.prems = ['6283863727744'] // Premium user has unlimited limit
-global.fotonya1 = 'https://telegra.ph/file/6433c5e9e7710aeeffeb5.jpg' //ini kalo mau di ganti silahkan ganti aja
-global.fotonya2 = 'https://telegra.ph/file/6433c5e9e7710aeeffeb5.jpg' //gw lupa nih foto apa aja:v
-global.fotonya3 = 'https://telegra.ph/file/6433c5e9e7710aeeffeb5.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/6433c5e9e7710aeeffeb5.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/6433c5e9e7710aeeffeb5.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/6433c5e9e7710aeeffeb5.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/6433c5e9e7710aeeffeb5.jpg'
-global.instagram = 'https://instagram.com/kokopangeran_'
+global.rowner = ['6282252285143'] // Real Owner Bot
+global.owner = ['6282252285143'] // Owner Bot
+global.police = ['6282252285143'] // Police Bot
+global.mods = ['6282252285143']  // Want some help?
+global.prems = ['6282252285143'] // Premium user has unlimited limit
+global.fotonya1 = 'https://telegra.ph/file/67150ff1a4b570b652652.jpg' //ini kalo mau di ganti silahkan ganti aja
+global.fotonya2 = 'https://telegra.ph/file/67150ff1a4b570b652652.jpg' //gw lupa nih foto apa aja:v
+global.fotonya3 = 'https://telegra.ph/file/67150ff1a4b570b652652.jpg' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/67150ff1a4b570b652652.jpg' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/67150ff1a4b570b652652.jpg' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/67150ff1a4b570b652652.jpg' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/67150ff1a4b570b652652.jpg'
+global.instagram = 'https://instagram.com/7code_bot'
 
-global.helper = ['6283863727744']
+global.helper = ['6282252285143']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
@@ -67,7 +67,7 @@ global.socket = {
 
 global.useMulti = false
 
-global.media = 'https://telegra.ph/file/6433c5e9e7710aeeffeb5.jpg'
+global.media = 'https://telegra.ph/file/67150ff1a4b570b652652.jpg'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -76,16 +76,16 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/0f9e2cc2de5389f9d80e2.jpg'
+global.thumbdoc = 'https://telegra.ph/file/67150ff1a4b570b652652.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 // Sticker WM
-global.packname = 'Yuni-MD'
-global.author = '©ᵈʳкσкσ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
-global.wm = 'Yuni-MD | ©ᵈʳкσкσ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
+global.packname = 'Yann-BOT'
+global.author = '© Ryann Aditya Prtm'
+global.wm = 'Yann-BOT | © Ryan Aditya\nWA Owner: 082252285143\nWA Bot: 0823504965321'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
